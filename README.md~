@@ -17,11 +17,11 @@ Run Map-Reduce jobs on HDFS
 Druid is an open-source data store designed for sub-second queries on real-time and historical data.
 or Cassandra for its high scalability and availability
 
-#Architecture
+# Architecture
 ![Architecture](Diagram.xml)
 
 
-#References
+# References
 1) www.jumpshot.com
 2) www.qubole.com
 3) www.qurora.com
