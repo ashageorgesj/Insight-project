@@ -19,7 +19,7 @@ Clickstream analysis for building better websites designed for revenue generatio
  or Cassandra for its high scalability and availability
 
 # Architecture
-![Architecture](Diagram.xml)
+![Architecture](architecture.jpeg)
 
 
 # References
