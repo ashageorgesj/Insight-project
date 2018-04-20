@@ -11,6 +11,7 @@ Clickstream analysis for building better websites designed for revenue generatio
 
 # Technologies
 ![Possible Method](https://qph.fs.quoracdn.net/main-qimg-f6a9510d1b187e8d599124d437fee129-c)
+
 Kafka for data ingestion
 Spark for streaming for real-time computations
 Run Map-Reduce jobs on HDFS

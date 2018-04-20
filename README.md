@@ -12,11 +12,11 @@ Clickstream analysis for building better websites designed for revenue generatio
 # Technologies
 ![Possible Method](https://qph.fs.quoracdn.net/main-qimg-f6a9510d1b187e8d599124d437fee129-c)
 
-Kafka for data ingestion
-Spark for streaming for real-time computations
-Run Map-Reduce jobs on HDFS
-Druid is an open-source data store designed for sub-second queries on real-time and historical data.
-or Cassandra for its high scalability and availability
+1) Kafka for data ingestion
+2) Spark for streaming for real-time computations
+3) Run Map-Reduce jobs on HDFS
+4) Druid is an open-source data store designed for sub-second queries on real-time and historical data.
+ or Cassandra for its high scalability and availability
 
 # Architecture
 ![Architecture](Diagram.xml)
