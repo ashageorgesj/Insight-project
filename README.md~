@@ -1,7 +1,7 @@
-#Project Idea
+# Project Idea
 Clickstream analysis for building better websites designed for revenue generation
 
-#Purpose and Use cases
+# Purpose and Use cases
 1) Conversion trends - from online marketplaces(clickthrough, basket placement and purchase). Clicking on a product information page means the product has generated interest. If there is not much conversion from click to basket rate, it may be due to poor price point or display
 2) Click-path Optimization and effectiveness of ad campaigns- Collect and analyze data to see pages visitors are visiting and in what order.
 3) Market basket analysis- what products people buy together, making recommendations and making another sale.
@@ -9,7 +9,7 @@ Clickstream analysis for building better websites designed for revenue generatio
 5) How competitors are making conversions
 6) Any online behaviors- favorite cars, searches etc.
 
-#Technologies
+# Technologies
 ![Possible Method](https://qph.fs.quoracdn.net/main-qimg-f6a9510d1b187e8d599124d437fee129-c)
 Kafka for data ingestion
 Spark for streaming for real-time computations
