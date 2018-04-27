@@ -24,6 +24,14 @@ Batch processing takes a whole bulk of data to generate metrics for a larger tim
 # Architecture
 ![Architecture](architecture.jpeg)
 
+#Current Architecture
+![CurrentArchitecture](currentarchitecture.jpg)
+
+# Primary engineering challenges
+1) Deciding which tool to use and convincing another as to my intentions
+2) Currently data size is small. While scaling up, I may end up with more challenges.
+
+
 
 # References
 1) www.jumpshot.com
